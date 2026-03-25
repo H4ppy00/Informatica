@@ -26,38 +26,10 @@ Un file matrice.txt contiene una matrice di valori float di dimensioni 12 × 10.
 **Esercizio 8**
 Un file di lunghezza ignota, il cui nome viene richiesto all'utente, contiene un testo senza punteggiatura composto da più righe di soli caratteri alfabetici. Cifrare il testo parola per parola e scrivere il risultato in output.txt, mantenendo la stessa struttura e convertendo tutto in minuscolo. La cifratura sostituisce tutte le vocali secondo lo schema: a→i, e→o, i→u, o→e, u→a. Esempio: ciao a voi tutti → cuie i veu tattu.
 
+
 **Esercizio 9**
-Un file matrice.txt contiene una matrice di valori float di dimensioni 12 × 10. Stampare a video le coordinate (r, c) di ciascuna cella che abbia valore minore delle celle immediatamente in diagonale (sopra-destra, sopra-sinistra, sotto-destra, sotto-sinistra) e che sia minore della media di tutte le celle della matrice.
+Un file di lunghezza ignota, il cui nome viene richiesto all'utente, contiene un testo senza punteggiatura composto da più righe di soli caratteri alfabetici. Cifrare il testo parola per parola e scrivere il risultato in output.txt, mantenendo la stessa struttura e convertendo tutto in minuscolo. La cifratura inverte ogni singola parola. Esempio: ciao a voi tutti → oaic a iov ittut.
 
 **Esercizio 10**
-Un file di lunghezza ignota, il cui nome viene richiesto all'utente, contiene un testo senza punteggiatura composto da più righe di soli caratteri alfabetici. Cifrare il testo parola per parola e scrivere il risultato in output.txt, mantenendo la stessa struttura e convertendo tutto in minuscolo. La cifratura inverte ogni singola parola. Esempio: ciao a voi tutti → oaic a iov ittut.
-
-**Esercizio 11**
-Un file matrice.txt contiene una matrice di valori float di dimensioni 12 × 10. Stampare a video le coordinate (r, c) di ciascuna cella che abbia valore minore delle celle immediatamente in diagonale (sopra-destra, sopra-sinistra, sotto-destra, sotto-sinistra) e che sia maggiore della media di tutte le celle della matrice.
-
-**Esercizio 12**
-Un file di lunghezza ignota, il cui nome viene richiesto all'utente, contiene un testo senza punteggiatura composto da più righe di soli caratteri alfabetici. Cifrare il testo parola per parola e scrivere il risultato in output.txt, mantenendo la stessa struttura e convertendo tutto in minuscolo. La cifratura scambia le lettere a coppie partendo da sinistra; se la parola ha un numero dispari di caratteri l'ultimo non viene scambiato. Esempio: ciao a voi tutti → icoa a oiv uttti.
-
-**Esercizio 13**
-Un file matrice.txt contiene una matrice di valori float di dimensioni 12 × 10. Stampare a video le coordinate (r, c) di ciascuna cella che abbia valore maggiore delle celle immediatamente in diagonale (sopra-destra, sopra-sinistra, sotto-destra, sotto-sinistra) e che sia minore della media di tutte le celle della matrice.
-
-**Esercizio 14**
 Un file di lunghezza ignota, il cui nome viene richiesto all'utente, contiene un testo senza punteggiatura composto da più righe di soli caratteri alfabetici. Cifrare il testo parola per parola e scrivere il risultato in output.txt, mantenendo la stessa struttura e convertendo tutto in minuscolo. La cifratura sposta tutti i caratteri di ciascuna parola a destra di due posizioni; i due caratteri eliminati a destra vengono collocati nello stesso ordine a sinistra. Se la parola ha meno di 3 caratteri non viene modificata. Esempio: ciao a voi tutti → aoci a ivo titut.
 
-**Esercizio 15**
-Un file matrice.txt contiene una matrice di valori float di dimensioni 12 × 10. Stampare a video le coordinate (r, c) di ciascuna cella che abbia valore maggiore delle celle immediatamente sopra, sotto, a destra e a sinistra e che sia maggiore della media di tutte le celle della matrice.
-
-**Esercizio 16**
-Un file di lunghezza ignota, il cui nome viene richiesto all'utente, contiene un testo senza punteggiatura composto da più righe di soli caratteri alfabetici. Cifrare il testo parola per parola e scrivere il risultato in output.txt, mantenendo la stessa struttura e convertendo tutto in minuscolo. La cifratura sostituisce tutte le vocali secondo lo schema: a→i, e→o, i→u, o→e, u→a. Esempio: ciao a voi tutti → cuie i veu tattu.
-
-**Esercizio 17**
-Un file matrice.txt contiene una matrice di valori float di dimensioni 12 × 10. Stampare a video le coordinate (r, c) di ciascuna cella che abbia valore maggiore delle celle immediatamente sopra, sotto, a destra e a sinistra e che sia maggiore della media di tutte le celle della matrice.
-
-**Esercizio 18**
-Un file di lunghezza ignota, il cui nome viene richiesto all'utente, contiene un testo senza punteggiatura composto da più righe di soli caratteri alfabetici. Cifrare il testo parola per parola e scrivere il risultato in output.txt, mantenendo la stessa struttura e convertendo tutto in minuscolo. La cifratura sposta tutti i caratteri di ciascuna parola a destra di due posizioni; i due caratteri eliminati a destra vengono collocati nello stesso ordine a sinistra. Se la parola ha meno di 3 caratteri non viene modificata. Esempio: ciao a voi tutti → aoci a ivo titut.
-
-**Esercizio 19**
-Un file matrice.txt contiene una matrice di valori float di dimensioni 12 × 10. Stampare a video le coordinate (r, c) di ciascuna cella che abbia valore maggiore delle celle immediatamente sopra, sotto, a destra e a sinistra e che sia minore della media di tutte le celle della matrice.
-
-**Esercizio 20**
-Un file di lunghezza ignota, il cui nome viene richiesto all'utente, contiene un testo senza punteggiatura composto da più righe di soli caratteri alfabetici. Cifrare il testo parola per parola e scrivere il risultato in output.txt, mantenendo la stessa struttura e convertendo tutto in minuscolo. La cifratura inverte ogni singola parola. Esempio: ciao a voi tutti → oaic a iov ittut.
